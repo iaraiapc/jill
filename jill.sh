@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 #
 # jill.sh
 # Copyright (C) 2017 Abel Soares Siqueira <abel.s.siqueira@gmail.com>
