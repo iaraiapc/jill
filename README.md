@@ -8,7 +8,7 @@ unpacking, and linking their software, this script does it for you.
 
 Simply run
 
-    sh -ci "$(curl -fsSL https://raw.githubusercontent.com/abelsiqueira/jill/master/jill.sh)"
+    bash -ci "$(curl -fsSL https://raw.githubusercontent.com/abelsiqueira/jill/master/jill.sh)"
 
 If you want to avoid using sudo, create a folder, add it to your PATH
 and then issue
